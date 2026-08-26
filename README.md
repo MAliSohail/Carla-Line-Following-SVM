@@ -5,7 +5,7 @@ machine, trained on driving data recorded in the CARLA simulator.
 
 ## Context
 
-University coursework project. The CARLA simulation environment, the ROS 2
+This was a university coursework project. The CARLA simulation environment, the ROS 2
 integration and the recorded driving session were provided by the course.
 This repository contains my own data pipeline and model: bag extraction,
 timestamp alignment, labelling, class balancing, training and evaluation.
