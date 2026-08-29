@@ -9,7 +9,7 @@ from rosbags.rosbag2 import Reader
 # CHANGE THESE SETTINGS
 # ==========================
 
-BAG_DIR = Path("bags/session_2026-05-18_11-03-20- Team1")
+BAG_DIR = Path("enter_bag_dir")
 
 CAMERA_TOPIC = "/carla/hero/camera/image/compressed"
 
