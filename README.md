@@ -1,4 +1,4 @@
-# CARLA Lane-Following SVM
+# CARLA Line-Following SVM
 
 Predicting steering commands from camera frames using a support vector
 machine, trained on driving data recorded in the CARLA simulator.
