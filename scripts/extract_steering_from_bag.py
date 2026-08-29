@@ -10,7 +10,7 @@ from rosbags.typesys import Stores, get_typestore
 # CHANGE THESE TWO SETTINGS
 # ==========================
 
-BAG_DIR = Path("bags/session_2026-05-18_11-03-20- Team1")
+BAG_DIR = Path("enter_bag_dir")
 
 STEERING_TOPIC = "/carla/hero/control_cmd"
 
