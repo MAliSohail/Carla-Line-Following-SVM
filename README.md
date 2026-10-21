@@ -3,6 +3,8 @@
 Predicting steering commands from camera frames using a support vector
 machine, trained on driving data recorded in the CARLA simulator.
 
+<img width="1920" height="1080" alt="CARLA SVM GIT PREVIEW" src="https://github.com/user-attachments/assets/93a50c0d-35e7-4edf-b5ff-bf37afe08f4e" />
+
 ## Context
 
 This was a university coursework project. The CARLA simulation environment, the ROS 2
